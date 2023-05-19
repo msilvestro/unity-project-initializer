@@ -1,0 +1,7 @@
+{
+   "buildPath": "Builds/WebGL",
+   "itchUser": "msilvestro",
+   "itchGame": "project-initializer",
+   "parallel": true,
+   "publishToItch": true
+}

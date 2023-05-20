@@ -4,7 +4,7 @@ Simple tool to initialize a new Unity project.
 
 To use it, follow these steps:
 
-1. Download the latest [.unitypackage](https://github.com/msilvestro/unity-project-initializer/releases/latest/download/ProjectInitializer_0.1.0.unitypackage)
+1. Download the latest [.unitypackage](https://github.com/msilvestro/unity-project-initializer/releases/latest/download/ProjectInitializer.unitypackage)
 2. From your Unity project, go to `Assets` -> `Import Package` -> `Custom Package...`
 3. Select the `.unitypackage` you just downloaded
 4. Import everything
